@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"reiche","characterIndex":1,"characterName":"jevain","classId":1,"equips":[3,3,7,15,19,11],"faceIndex":0,"faceName":"PauloMello","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Reiche","nickname":"Reiche","note":"","profile":"O grande Chefe da Empresa"},
+{"id":1,"battlerName":"reiche","characterIndex":1,"characterName":"jevain","classId":1,"equips":[6,3,7,15,19,11],"faceIndex":0,"faceName":"PauloMello","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Reiche","nickname":"Reiche","note":"","profile":"O grande Chefe da Empresa"},
 {"id":2,"battlerName":"jevain","characterIndex":0,"characterName":"jevain","classId":2,"equips":[2,2,5,13,17,8],"faceIndex":0,"faceName":"jevain","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Jevain","nickname":"Jevain","note":"","profile":"O grande Gerente da Empresa"},
 {"id":3,"battlerName":"dener","characterIndex":2,"characterName":"team1","classId":8,"equips":[4,1,4,12,16,8],"faceIndex":2,"faceName":"team1","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Rened","nickname":"Atlam Rened","note":"","profile":""},
 {"id":4,"battlerName":"rodericles","characterIndex":1,"characterName":"team1","classId":3,"equips":[1,1,4,12,16,8],"faceIndex":1,"faceName":"team1","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Rodéricles","nickname":"Dom Rodrigo Rodriguez","note":"","profile":""},
