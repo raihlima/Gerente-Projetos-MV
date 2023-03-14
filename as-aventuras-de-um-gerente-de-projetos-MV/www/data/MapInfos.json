@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"Apartamento","order":9,"parentId":3,"scrollX":1638,"scrollY":922},
 {"id":2,"expanded":false,"name":"Igreja","order":43,"parentId":3,"scrollX":1638,"scrollY":922},
-{"id":3,"expanded":false,"name":"Cidade","order":1,"parentId":0,"scrollX":1622,"scrollY":906},
+{"id":3,"expanded":true,"name":"Cidade","order":1,"parentId":0,"scrollX":1622,"scrollY":906},
 {"id":4,"expanded":false,"name":"LojaDeEquipamentos","order":2,"parentId":3,"scrollX":1638,"scrollY":922},
 {"id":5,"expanded":false,"name":"Taberna","order":3,"parentId":3,"scrollX":1638,"scrollY":922},
 {"id":6,"expanded":false,"name":"Lanchonete","order":4,"parentId":3,"scrollX":1638,"scrollY":922},
