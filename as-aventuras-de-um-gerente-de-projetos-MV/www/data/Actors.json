@@ -16,5 +16,5 @@ null,
 {"id":14,"battlerName":"val","characterIndex":2,"characterName":"fem1","classId":16,"equips":[7,1,4,12,16,8],"faceIndex":4,"faceName":"Principais","traits":[],"initialLevel":5,"maxLevel":99,"name":"Val","nickname":"Kira Val","note":"","profile":""},
 {"id":15,"battlerName":"aloi","characterIndex":3,"characterName":"Leo","classId":7,"equips":[1,1,4,12,16,8],"faceIndex":3,"faceName":"Leo","traits":[],"initialLevel":5,"maxLevel":99,"name":"Aluísyo","nickname":"","note":"","profile":""},
 {"id":16,"battlerName":"Principais7","characterIndex":6,"characterName":"Principais","classId":12,"equips":[4,1,4,12,16,8],"faceIndex":6,"faceName":"Principais","traits":[],"initialLevel":5,"maxLevel":99,"name":"Cléo","nickname":"","note":"","profile":""},
-{"id":17,"battlerName":"Principais","characterIndex":5,"characterName":"Principais","classId":17,"equips":[7,1,4,12,16,8],"faceIndex":5,"faceName":"Principais","traits":[],"initialLevel":5,"maxLevel":99,"name":"K2","nickname":"Karina Kristina","note":"","profile":""}
+{"id":17,"battlerName":"Principais","characterIndex":5,"characterName":"Principais","classId":17,"equips":[7,1,4,12,16,8],"faceIndex":5,"faceName":"Principais","traits":[],"initialLevel":5,"maxLevel":99,"name":"K2","nickname":"Kyela Kristina","note":"","profile":""}
 ]
